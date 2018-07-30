@@ -4,3 +4,6 @@
 [submodule "go/deadlock"]
 	path = go/deadlock
 	url = git@gist.github.com:86e7e447af2f9e9f830f464a8dbbb597
+[submodule "docker/cron"]
+	path = docker/cron
+	url = git@gist.github.com:f9b63b170f2200e9f07b5fc40c483835
