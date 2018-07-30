@@ -1,3 +1,6 @@
 [submodule "go/understanding_channel_buffer_blocking_deadlock_and_goroutines"]
 	path = go/understanding_channel_buffer_blocking_deadlock_and_goroutines
 	url = git@gist.github.com:8d52e73dac7dc361745bf568c3c4ba37
+[submodule "go/deadlock"]
+	path = go/deadlock
+	url = git@gist.github.com:86e7e447af2f9e9f830f464a8dbbb597
