@@ -10,6 +10,6 @@
 [submodule "ansible/slurp_module"]
 	path = ansible/slurp_module
 	url = git@gist.github.com:3902607dddac246ca15395b5aedcc2fb
-[submodule "ansible/slurp_module"]
+[submodule "ansible/replace_moule"]
 	path = ansible/replace_module
 	url = git@gist.github.com:592121dd8dc2a71b796591ccc4564f31
