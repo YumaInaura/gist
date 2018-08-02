@@ -1,0 +1,8 @@
+[localhost]
+localhost
+
+[localhost:vars]
+ansible_user=root
+ansible_port=2222
+ansible_ssh_pass=screencast
+
