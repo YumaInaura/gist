@@ -4,3 +4,12 @@
 [submodule "go/deadlock"]
 	path = go/deadlock
 	url = git@gist.github.com:86e7e447af2f9e9f830f464a8dbbb597
+[submodule "ansible/replace_module"]
+	path = ansible/replace_module
+	url = git@gist.github.com:592121dd8dc2a71b796591ccc4564f31
+[submodule "ansible/slurp_module"]
+	path = ansible/slurp_module
+	url = git@gist.github.com:3902607dddac246ca15395b5aedcc2fb
+[submodule "ansible/replace_module_bug"]
+	path = ansible/replace_module_bug
+	url = git@gist.github.com:e1004e77cb253d58d8e707c1fa26200c
