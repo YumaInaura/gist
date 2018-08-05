@@ -13,3 +13,6 @@
 [submodule "ansible/replace_module_bug"]
 	path = ansible/replace_module_bug
 	url = git@gist.github.com:e1004e77cb253d58d8e707c1fa26200c
+[submodule "python/regex_beginner"]
+	path = python/regex_beginner
+	url = git@gist.github.com:9088d70b495b3aad69829326c7c51882
