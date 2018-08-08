@@ -16,3 +16,6 @@
 [submodule "python/regex_beginner"]
 	path = python/regex_beginner
 	url = git@gist.github.com:9088d70b495b3aad69829326c7c51882
+[submodule "shell/retry"]
+	path = shell/retry
+	url = git@gist.github.com:d7c96b094cc51941cd7165eae7ba7ef9
