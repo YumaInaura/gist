@@ -19,3 +19,6 @@
 [submodule "shell/retry"]
 	path = shell/retry
 	url = git@gist.github.com:d7c96b094cc51941cd7165eae7ba7ef9
+[submodule "shell/eval"]
+	path = shell/eval
+	url = git@gist.github.com:838cac70898062585f90206861ccb7e9
