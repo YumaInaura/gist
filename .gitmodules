@@ -22,3 +22,6 @@
 [submodule "shell/eval"]
 	path = shell/eval
 	url = git@gist.github.com:838cac70898062585f90206861ccb7e9
+[submodule "shell/parameter_expansion"]
+	path = shell/parameter_expansion
+	url = git@gist.github.com:00ae0980f0fc8596a8d7233e6684bc1c
