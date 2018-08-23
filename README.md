@@ -9,5 +9,5 @@ git submodule add git@gist.github.com:8d52e73dac7dc361745bf568c3c4ba37 understan
 # Clone all gists
 
 ```
-git clone --recurse-submodules https://github.com/YumaInaura/gist
+git clone --recurse-submodules https://github.com/YumaInaura/mygist
 ```
